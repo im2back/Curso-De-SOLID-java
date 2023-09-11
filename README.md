@@ -8,3 +8,8 @@ Repositorio do curso de SOLID feito na escola de programadores ALURA. SOLID é u
 ✔Entenda a fundo os ganhos do encapsulamento<br>
 ✔Domine os princípios de código sólido<br>
 ✔Veja técnicas e exemplos em Java<br>
+
+
+# Fim de curso
+## O que aprendi :
+![image](https://github.com/im2back/Curso-De-SOLID-java/assets/117541466/e04ffe1d-4c14-41a0-9884-bc64bb188a7f)
